@@ -1,4 +1,9 @@
 ---
 label: Generic page
 hide_body: false
-fields: []
+fields:
+- name: dasdaa
+  type: text
+  config:
+    required: false
+  label: dasdaa
